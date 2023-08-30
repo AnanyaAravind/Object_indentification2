@@ -1,0 +1,18 @@
+body{
+    background-size:cover;
+position:center;
+}
+h2{
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(245, 213, 197);
+    width:100%;
+}
+input{
+    font-size:15px;
+}
+canvas{
+    border:10px solid black;
+    box-shadow: grey;
+    margin-top:170px;
+}
